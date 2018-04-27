@@ -1,6 +1,6 @@
 
 TITLE: 
-Cache - 100% Fully Responsive Free HTML5 Bootstrap Template
+Render - One Page Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
@@ -36,8 +36,11 @@ https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 animate.css
 http://daneden.me/animate
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Demo Images: 
-http://unsplash.com/
+Superfish Menu
+http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+
+hoverIntent
+https://github.com/briancherne/jquery-hoverIntent
